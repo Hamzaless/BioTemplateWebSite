@@ -1,2 +1,2 @@
-# BioTemplateWebSite
-Kendinize özel bir bio sitesi templatesi
+# canakburu
+Kişisel Blog
